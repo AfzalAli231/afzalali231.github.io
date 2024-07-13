@@ -227,7 +227,7 @@ This section guides you to deploy your portfolio on GitHub pages.
 
 - Navigate to `package.json` and enter your domain name instead of `https://developerfolio.js.org/` in `homepage` variable. For example, if you want your site to be `https://<your-username>.github.io/developerFolio`, add the same to the homepage section of `package.json`.
 
-- In short you can also add `/devloperFolio` to `package.json` as both are exactly same. Upon doing so, you tell `create-react-app` to add the path assets accordingly.
+- In short you can also add `/devloperfolio` to `package.json` as both are exactly same. Upon doing so, you tell `create-react-app` to add the path assets accordingly.
 
 - Optionally, configure the domain. You can configure a custom domain with GitHub Pages by adding a `CNAME` file to the `public/` folder.
 
@@ -270,7 +270,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 <table>
   <tr>
-    <td align="center"><a href="https://afzalali231.github.io/devloperFolio"><img src="https://avatars.githubusercontent.com/u/72311983?v=4" width="100px;" alt=""/><br /><sub><b>Afzal Imdad</b></sub></a></td>
+    <td align="center"><a href="https://afzalali231.github.io/devloperfolio"><img src="https://avatars.githubusercontent.com/u/72311983?v=4" width="100px;" alt=""/><br /><sub><b>Afzal Imdad</b></sub></a></td>
     <td align="center"><a href="http://saadpasta.github.io"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4" width="100px;" alt=""/><br /><sub><b>Saad Pasta</b></sub></a></td>
     <td align="center"><a href="https://github.com/kartikcho"><img src="https://avatars1.githubusercontent.com/u/48270786?v=4" width="100px;" alt=""/><br /><sub><b>Kartik Choudhary</b></sub></a></td>
     <td align="center"><a href="https://github.com/naveen521kk"><img src="https://avatars1.githubusercontent.com/u/49693820?v=4" width="100px;" alt=""/><br /><sub><b>Naveen M K</b></sub></a></td>
