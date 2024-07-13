@@ -14,7 +14,7 @@ COPY package.json ./
 RUN apk add --no-cache git
 
 # Install any needed packages
-RUN npm install
+RUN npm install -f
 
 # Audit fix npm packages
 RUN npm audit fix

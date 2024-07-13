@@ -11,11 +11,12 @@ export default function Projects() {
   const FailedLoading = () => null;
   const renderLoader = () => <Loading />;
   const [repo, setrepo] = useState([]);
-  // todo: remove useContex because is not supported
+  // todo: remove useContext because is not supported
   const {isDark} = useContext(StyleContext);
 
   useEffect(() => {
     const getRepoData = () => {
+      console.log("asd")
       fetch("/profile.json")
         .then(result => {
           if (result.ok) {
@@ -24,6 +25,7 @@ export default function Projects() {
           throw result;
         })
         .then(response => {
+          console.log(response.data.user.pinnedItems.edges)
           setrepoFunction(response.data.user.pinnedItems.edges);
         })
         .catch(function (error) {
