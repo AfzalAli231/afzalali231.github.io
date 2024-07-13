@@ -1,4 +1,4 @@
-# Software Developer Folio ⚡️ [![GitHub](https://img.shields.io/github/license/AfzalAli231/developer-portfolio?color=blue)](https://github.com/AfzalAli231/developerFolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/AfzalAli231/developerFolio)](https://github.com/AfzalAli231/developerFolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+# Software Developer Folio ⚡️ [![GitHub](https://img.shields.io/github/license/AfzalAli231/developer-portfolio?color=blue)](https://github.com/AfzalAli231/developerFolio/blob/main/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/AfzalAli231/developerFolio)](https://github.com/AfzalAli231/developerFolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
 ## A clean, beautiful and responsive portfolio template for Developers!
 
